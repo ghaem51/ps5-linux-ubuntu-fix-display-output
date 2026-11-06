@@ -1,0 +1,14 @@
+logs/
+__pycache__/
+*.o
+*.ko
+*.mod
+*.mod.c
+.*.cmd
+Module.symvers
+modules.order
+verde/live-layout.h
+*.part
+verde/build-btf.sha256
+snapshots/*.edid
+verde/.build/
